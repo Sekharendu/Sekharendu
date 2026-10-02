@@ -1,41 +1,68 @@
-<h1 align="center">Hi 👋, I'm Sekharendu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi, I'm Sekharendu 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sekharendu&label=Profile%20views&color=0e75b6&style=flat" alt="sekharendu" /> </p>
+Software engineer building **TypeScript/Node.js backends, RAG applications, and AI observability tools**.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sekharendu" alt="sekharendu" /></a> </p>
+I've worked on production backend services and fintech workflows at CloudKaptan. Outside work, I build and ship tools that let me explore retrieval, streaming, SDK design, and reliable LLM integrations. I like picking difficult problems, measuring what changes, and sharing what I learn.
 
-<p align="left"> <a href="https://twitter.com/sekharendu60107" target="blank"><img src="https://img.shields.io/twitter/follow/sekharendu60107?logo=twitter&style=for-the-badge" alt="sekharendu60107" /></a> </p>
+[Portfolio](https://www.sekharendudey.com/) · [LinkedIn](https://www.linkedin.com/in/sekharendu-dey/) · [X](https://x.com/Sekharendu60107) · [Email](mailto:sekharendudey12@gmail.com)
 
-- 🔭 I’m currently working on **LocalCortex**
+## Selected projects
 
-- 🌱 I’m currently learning **TypeScript**
+### [LocalCortex](https://github.com/Sekharendu/LocalCortex)
 
-- 👨‍💻 All of my projects are available at [sekharendudey.com](sekharendudey.com)
+A fully local RAG application for chatting with PDF, Word, and Markdown documents. Includes dense and hybrid retrieval, streamed answers with sources, PostgreSQL chat history, and a Docker setup.
 
-- 📝 I regularly write articles on [https://dev.to/sekharendu_dey/](https://dev.to/sekharendu_dey/)
+- Built a **113-question retrieval evaluation harness** using Recall@K and MRR.
+- Improved **MRR from 0.912 to 0.952** through retrieval and embedding tuning.
+- Tuned refusal thresholds and follow-up handling, eliminating nine false refusals in the evaluation.
 
-- 📫 How to reach me **sekharendudey12@gmail.com**
+**Stack:** TypeScript, Node.js, React, Ollama, Qdrant, PostgreSQL, Docker
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IQdc-d0kST5lrQcgXfPTfzQqq_8IbVDa/view?usp=sharing](https://drive.google.com/file/d/1IQdc-d0kST5lrQcgXfPTfzQqq_8IbVDa/view?usp=sharing)
+[Repository](https://github.com/Sekharendu/LocalCortex) · [Project site](https://sekharendu.github.io/LocalCortex/)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### [Agnost AI Adapter](https://github.com/Sekharendu/Agnost-AI-Adapter)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/sekharendu_dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sekharendu_dey" height="30" width="40" /></a>
-<a href="https://twitter.com/sekharendu60107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sekharendu60107" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sekharendu-dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sekharendu-dey" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/0xbrainnotfound" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="0xbrainnotfound" height="30" width="40" /></a>
-</p>
+A published npm package that adds observability to AI SDK calls through drop-in wrappers and JavaScript Proxies. Captures latency, token usage, model metadata, tool calls, streaming output, and failures while preserving existing SDK interfaces.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- Supports Vercel AI, OpenAI, Google GenAI, and Mastra.
+- Dispatches telemetry asynchronously without waiting for delivery before returning the SDK response.
+- Includes **48 automated tests**: 29 unit and 19 end-to-end, covering installation, streaming, error handling, Proxy passthrough, and telemetry format.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sekharendu&show_icons=true&locale=en&layout=compact" alt="sekharendu" /></p>
+**Stack:** TypeScript, Node.js, JavaScript Proxies, AI SDKs, Vitest
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sekharendu&show_icons=true&locale=en" alt="sekharendu" /></p>
+[Repository](https://github.com/Sekharendu/Agnost-AI-Adapter) · [npm](https://www.npmjs.com/package/agnost-ai-adapter)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sekharendu&" alt="sekharendu" /></p>
+## Production experience
+
+At **CloudKaptan**, I progressed from Software Engineer Apprentice to Software Engineer Trainee:
+
+- Built a Node.js export API for **50,000+ records**, resolving heap-memory issues and improving CSV export speed by **65%**.
+- Developed a multi-provider LLM layer with retries, circuit breakers, fallback routing, and AsyncLocalStorage-based per-tenant token, latency, and cost telemetry.
+- Built record-transition workflows processing **1,000+ records concurrently** across eight lifecycle stages, and automated loan disbursement workflows supporting **$10M+ in quarterly origination volume**.
+
+## Currently building
+
+**[StreamMind](https://github.com/Sekharendu/StreamMind)** — an AI backend in progress, bringing together streaming, provider fallback, conversation history, retrieval, and observability. I'm working with TypeScript, Fastify, PostgreSQL, Redis, and pgvector.
+
+## Core stack
+
+| Area | Technologies |
+| --- | --- |
+| Backend | TypeScript, JavaScript, Node.js, Fastify, Express, REST APIs, SSE |
+| AI & retrieval | Ollama, Vercel AI SDK, OpenAI SDK, Google GenAI, Qdrant, pgvector |
+| Data & infrastructure | PostgreSQL, Redis, Docker, GitHub Actions |
+| Frontend & testing | React, Tailwind CSS, Vitest |
+
+## Writing & learning in public
+
+I share engineering notes and project progress on [X](https://x.com/Sekharendu60107) and [dev.to](https://dev.to/sekharendu_dey/).
+
+Recent writing includes **“Chunking: Getting the First Cut Right”** and **“Measuring Before Painting: Why My Dropdown Needed useLayoutEffect.”** You can find both through [my portfolio](https://www.sekharendudey.com/#blogs).
+
+Away from the keyboard: cricket, the gym, running, anime, and non-fiction books.
+
+## Let's connect
+
+Based in India. **Open to remote backend and AI engineering opportunities with international teams.**
+
+[Email me](mailto:sekharendudey12@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sekharendu-dey/) · [Book a call](https://cal.com/sekharendu-dey)
