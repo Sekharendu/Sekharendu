@@ -39,7 +39,7 @@ I share more project progress and engineering notes on [X](https://x.com/Sekhare
 
 ## GitHub activity
 
-[![Six months of Sekharendu's GitHub activity](./assets/github-activity.svg)](https://github.com/Sekharendu?tab=overview)
+[![Four months of Sekharendu's GitHub activity](./assets/github-activity.svg)](https://github.com/Sekharendu?tab=overview)
 
 Outside code, you'll usually find me watching cricket or anime, lifting, running, or reading non-fiction.
 

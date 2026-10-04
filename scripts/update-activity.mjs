@@ -3,7 +3,7 @@ import { mkdirSync, writeFileSync } from 'node:fs';
 
 // GitHub contribution dates use UTC. Clamp month subtraction at month end.
 const end = new Date();
-const start = new Date(Date.UTC(end.getUTCFullYear(), end.getUTCMonth() - 6, 1));
+const start = new Date(Date.UTC(end.getUTCFullYear(), end.getUTCMonth() - 4, 1));
 const lastDay = new Date(Date.UTC(start.getUTCFullYear(), start.getUTCMonth() + 1, 0)).getUTCDate();
 start.setUTCDate(Math.min(end.getUTCDate(), lastDay));
 const iso = date => date.toISOString().slice(0, 10);
@@ -56,11 +56,11 @@ const dots = days.filter(day => day.contributionCount > 0).map(day => {
   return `<circle cx="${x(i).toFixed(2)}" cy="${y(day.contributionCount).toFixed(2)}" r="2" fill="#fde047"><title>${day.date}: ${day.contributionCount} contributions</title></circle>`;
 }).join('\n');
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-labelledby="title desc">
-<title id="title">Six months of GitHub activity</title>
+<title id="title">Four months of GitHub activity</title>
 <desc id="desc">Daily GitHub contributions from ${from} through ${to}. ${total} contributions. Horizontal axis: date. Vertical axis: contributions per day.</desc>
 <rect width="1000" height="340" rx="12" fill="#0d0d0d"/>
 <g font-family="Segoe UI, Arial, sans-serif">
-<text x="30" y="34" fill="#facc15" font-size="20" font-weight="600">Six months of GitHub activity</text>
+<text x="30" y="34" fill="#facc15" font-size="20" font-weight="600">Four months of GitHub activity</text>
 <text x="30" y="57" fill="#a3a3a3" font-size="13">${from} — ${to} · ${total} contributions</text>
 ${ticks}
 <polygon points="${left},${bottom} ${points} 950,${bottom}" fill="#facc15" opacity="0.08"/>
