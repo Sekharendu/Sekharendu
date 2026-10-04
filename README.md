@@ -39,7 +39,7 @@ I share more project progress and engineering notes on [X](https://x.com/Sekhare
 
 ## GitHub activity
 
-[![Six months of Sekharendu's public GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=Sekharendu&bg_color=0d1117&color=f5f5f5&title_color=facc15&line=facc15&point=fde047&area=true&area_color=713f12&hide_border=true&radius=8&height=260&from=2026-04-04&to=2026-10-04&grid=true&custom_title=Six%20months%20of%20public%20GitHub%20activity)](https://github.com/Sekharendu?tab=overview)
+[![Six months of Sekharendu's GitHub activity](./assets/github-activity.svg)](https://github.com/Sekharendu?tab=overview)
 
 Outside code, you'll usually find me watching cricket or anime, lifting, running, or reading non-fiction.
 

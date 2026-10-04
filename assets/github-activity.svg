@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-labelledby="title desc">
+<title id="title">Six months of GitHub activity</title>
+<desc id="desc">Daily GitHub contributions from 2026-04-04 through 2026-10-04. 370 contributions. Horizontal axis: date. Vertical axis: contributions per day.</desc>
+<rect width="1000" height="340" rx="12" fill="#0d0d0d"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="30" y="34" fill="#facc15" font-size="20" font-weight="600">Six months of GitHub activity</text>
+<text x="30" y="57" fill="#a3a3a3" font-size="13">2026-04-04 — 2026-10-04 · 370 contributions</text>
+<path d="M65 275H950" stroke="#292929"/><text x="51" y="279" text-anchor="end" fill="#a3a3a3" font-size="12">0</text>
+<path d="M65 227.5H950" stroke="#292929"/><text x="51" y="231.5" text-anchor="end" fill="#a3a3a3" font-size="12">5</text>
+<path d="M65 180H950" stroke="#292929"/><text x="51" y="184" text-anchor="end" fill="#a3a3a3" font-size="12">10</text>
+<path d="M65 132.5H950" stroke="#292929"/><text x="51" y="136.5" text-anchor="end" fill="#a3a3a3" font-size="12">15</text>
+<path d="M65 85H950" stroke="#292929"/><text x="51" y="89" text-anchor="end" fill="#a3a3a3" font-size="12">20</text>
+<polygon points="65,275 65.00,265.50 69.84,237.00 74.67,265.50 79.51,265.50 84.34,218.00 89.18,265.50 94.02,265.50 98.85,265.50 103.69,237.00 108.52,123.00 113.36,256.00 118.20,265.50 123.03,265.50 127.87,265.50 132.70,265.50 137.54,265.50 142.38,265.50 147.21,265.50 152.05,265.50 156.89,265.50 161.72,265.50 166.56,275.00 171.39,265.50 176.23,265.50 181.07,265.50 185.90,265.50 190.74,256.00 195.57,265.50 200.41,265.50 205.25,265.50 210.08,265.50 214.92,275.00 219.75,275.00 224.59,265.50 229.43,275.00 234.26,265.50 239.10,265.50 243.93,275.00 248.77,275.00 253.61,275.00 258.44,275.00 263.28,275.00 268.11,275.00 272.95,246.50 277.79,275.00 282.62,275.00 287.46,256.00 292.30,275.00 297.13,256.00 301.97,161.00 306.80,237.00 311.64,275.00 316.48,275.00 321.31,227.50 326.15,237.00 330.98,265.50 335.82,265.50 340.66,189.50 345.49,227.50 350.33,275.00 355.16,265.50 360.00,265.50 364.84,275.00 369.67,265.50 374.51,113.50 379.34,275.00 384.18,275.00 389.02,265.50 393.85,256.00 398.69,265.50 403.52,265.50 408.36,265.50 413.20,265.50 418.03,275.00 422.87,275.00 427.70,256.00 432.54,275.00 437.38,132.50 442.21,246.50 447.05,275.00 451.89,265.50 456.72,275.00 461.56,275.00 466.39,265.50 471.23,275.00 476.07,275.00 480.90,256.00 485.74,275.00 490.57,246.50 495.41,275.00 500.25,275.00 505.08,246.50 509.92,132.50 514.75,246.50 519.59,218.00 524.43,246.50 529.26,189.50 534.10,275.00 538.93,275.00 543.77,275.00 548.61,275.00 553.44,227.50 558.28,275.00 563.11,275.00 567.95,275.00 572.79,275.00 577.62,246.50 582.46,275.00 587.30,275.00 592.13,275.00 596.97,275.00 601.80,275.00 606.64,275.00 611.48,275.00 616.31,246.50 621.15,265.50 625.98,256.00 630.82,275.00 635.66,265.50 640.49,275.00 645.33,227.50 650.16,265.50 655.00,275.00 659.84,275.00 664.67,265.50 669.51,218.00 674.34,275.00 679.18,275.00 684.02,275.00 688.85,265.50 693.69,265.50 698.52,265.50 703.36,265.50 708.20,237.00 713.03,265.50 717.87,265.50 722.70,265.50 727.54,256.00 732.38,256.00 737.21,265.50 742.05,256.00 746.89,256.00 751.72,256.00 756.56,237.00 761.39,227.50 766.23,218.00 771.07,227.50 775.90,237.00 780.74,275.00 785.57,265.50 790.41,256.00 795.25,265.50 800.08,265.50 804.92,265.50 809.75,265.50 814.59,256.00 819.43,265.50 824.26,265.50 829.10,265.50 833.93,208.50 838.77,265.50 843.61,265.50 848.44,256.00 853.28,265.50 858.11,199.00 862.95,180.00 867.79,265.50 872.62,256.00 877.46,265.50 882.30,265.50 887.13,265.50 891.97,265.50 896.80,142.00 901.64,246.50 906.48,256.00 911.31,227.50 916.15,218.00 920.98,189.50 925.82,265.50 930.66,275.00 935.49,275.00 940.33,237.00 945.16,275.00 950.00,265.50 950,275" fill="#facc15" opacity="0.08"/>
+<polyline points="65.00,265.50 69.84,237.00 74.67,265.50 79.51,265.50 84.34,218.00 89.18,265.50 94.02,265.50 98.85,265.50 103.69,237.00 108.52,123.00 113.36,256.00 118.20,265.50 123.03,265.50 127.87,265.50 132.70,265.50 137.54,265.50 142.38,265.50 147.21,265.50 152.05,265.50 156.89,265.50 161.72,265.50 166.56,275.00 171.39,265.50 176.23,265.50 181.07,265.50 185.90,265.50 190.74,256.00 195.57,265.50 200.41,265.50 205.25,265.50 210.08,265.50 214.92,275.00 219.75,275.00 224.59,265.50 229.43,275.00 234.26,265.50 239.10,265.50 243.93,275.00 248.77,275.00 253.61,275.00 258.44,275.00 263.28,275.00 268.11,275.00 272.95,246.50 277.79,275.00 282.62,275.00 287.46,256.00 292.30,275.00 297.13,256.00 301.97,161.00 306.80,237.00 311.64,275.00 316.48,275.00 321.31,227.50 326.15,237.00 330.98,265.50 335.82,265.50 340.66,189.50 345.49,227.50 350.33,275.00 355.16,265.50 360.00,265.50 364.84,275.00 369.67,265.50 374.51,113.50 379.34,275.00 384.18,275.00 389.02,265.50 393.85,256.00 398.69,265.50 403.52,265.50 408.36,265.50 413.20,265.50 418.03,275.00 422.87,275.00 427.70,256.00 432.54,275.00 437.38,132.50 442.21,246.50 447.05,275.00 451.89,265.50 456.72,275.00 461.56,275.00 466.39,265.50 471.23,275.00 476.07,275.00 480.90,256.00 485.74,275.00 490.57,246.50 495.41,275.00 500.25,275.00 505.08,246.50 509.92,132.50 514.75,246.50 519.59,218.00 524.43,246.50 529.26,189.50 534.10,275.00 538.93,275.00 543.77,275.00 548.61,275.00 553.44,227.50 558.28,275.00 563.11,275.00 567.95,275.00 572.79,275.00 577.62,246.50 582.46,275.00 587.30,275.00 592.13,275.00 596.97,275.00 601.80,275.00 606.64,275.00 611.48,275.00 616.31,246.50 621.15,265.50 625.98,256.00 630.82,275.00 635.66,265.50 640.49,275.00 645.33,227.50 650.16,265.50 655.00,275.00 659.84,275.00 664.67,265.50 669.51,218.00 674.34,275.00 679.18,275.00 684.02,275.00 688.85,265.50 693.69,265.50 698.52,265.50 703.36,265.50 708.20,237.00 713.03,265.50 717.87,265.50 722.70,265.50 727.54,256.00 732.38,256.00 737.21,265.50 742.05,256.00 746.89,256.00 751.72,256.00 756.56,237.00 761.39,227.50 766.23,218.00 771.07,227.50 775.90,237.00 780.74,275.00 785.57,265.50 790.41,256.00 795.25,265.50 800.08,265.50 804.92,265.50 809.75,265.50 814.59,256.00 819.43,265.50 824.26,265.50 829.10,265.50 833.93,208.50 838.77,265.50 843.61,265.50 848.44,256.00 853.28,265.50 858.11,199.00 862.95,180.00 867.79,265.50 872.62,256.00 877.46,265.50 882.30,265.50 887.13,265.50 891.97,265.50 896.80,142.00 901.64,246.50 906.48,256.00 911.31,227.50 916.15,218.00 920.98,189.50 925.82,265.50 930.66,275.00 935.49,275.00 940.33,237.00 945.16,275.00 950.00,265.50" fill="none" stroke="#facc15" stroke-width="1.8" stroke-linejoin="round"/>
+<circle cx="65.00" cy="265.50" r="2" fill="#fde047"><title>2026-04-04: 1 contributions</title></circle>
+<circle cx="69.84" cy="237.00" r="2" fill="#fde047"><title>2026-04-05: 4 contributions</title></circle>
+<circle cx="74.67" cy="265.50" r="2" fill="#fde047"><title>2026-04-06: 1 contributions</title></circle>
+<circle cx="79.51" cy="265.50" r="2" fill="#fde047"><title>2026-04-07: 1 contributions</title></circle>
+<circle cx="84.34" cy="218.00" r="2" fill="#fde047"><title>2026-04-08: 6 contributions</title></circle>
+<circle cx="89.18" cy="265.50" r="2" fill="#fde047"><title>2026-04-09: 1 contributions</title></circle>
+<circle cx="94.02" cy="265.50" r="2" fill="#fde047"><title>2026-04-10: 1 contributions</title></circle>
+<circle cx="98.85" cy="265.50" r="2" fill="#fde047"><title>2026-04-11: 1 contributions</title></circle>
+<circle cx="103.69" cy="237.00" r="2" fill="#fde047"><title>2026-04-12: 4 contributions</title></circle>
+<circle cx="108.52" cy="123.00" r="2" fill="#fde047"><title>2026-04-13: 16 contributions</title></circle>
+<circle cx="113.36" cy="256.00" r="2" fill="#fde047"><title>2026-04-14: 2 contributions</title></circle>
+<circle cx="118.20" cy="265.50" r="2" fill="#fde047"><title>2026-04-15: 1 contributions</title></circle>
+<circle cx="123.03" cy="265.50" r="2" fill="#fde047"><title>2026-04-16: 1 contributions</title></circle>
+<circle cx="127.87" cy="265.50" r="2" fill="#fde047"><title>2026-04-17: 1 contributions</title></circle>
+<circle cx="132.70" cy="265.50" r="2" fill="#fde047"><title>2026-04-18: 1 contributions</title></circle>
+<circle cx="137.54" cy="265.50" r="2" fill="#fde047"><title>2026-04-19: 1 contributions</title></circle>
+<circle cx="142.38" cy="265.50" r="2" fill="#fde047"><title>2026-04-20: 1 contributions</title></circle>
+<circle cx="147.21" cy="265.50" r="2" fill="#fde047"><title>2026-04-21: 1 contributions</title></circle>
+<circle cx="152.05" cy="265.50" r="2" fill="#fde047"><title>2026-04-22: 1 contributions</title></circle>
+<circle cx="156.89" cy="265.50" r="2" fill="#fde047"><title>2026-04-23: 1 contributions</title></circle>
+<circle cx="161.72" cy="265.50" r="2" fill="#fde047"><title>2026-04-24: 1 contributions</title></circle>
+<circle cx="171.39" cy="265.50" r="2" fill="#fde047"><title>2026-04-26: 1 contributions</title></circle>
+<circle cx="176.23" cy="265.50" r="2" fill="#fde047"><title>2026-04-27: 1 contributions</title></circle>
+<circle cx="181.07" cy="265.50" r="2" fill="#fde047"><title>2026-04-28: 1 contributions</title></circle>
+<circle cx="185.90" cy="265.50" r="2" fill="#fde047"><title>2026-04-29: 1 contributions</title></circle>
+<circle cx="190.74" cy="256.00" r="2" fill="#fde047"><title>2026-04-30: 2 contributions</title></circle>
+<circle cx="195.57" cy="265.50" r="2" fill="#fde047"><title>2026-05-01: 1 contributions</title></circle>
+<circle cx="200.41" cy="265.50" r="2" fill="#fde047"><title>2026-05-02: 1 contributions</title></circle>
+<circle cx="205.25" cy="265.50" r="2" fill="#fde047"><title>2026-05-03: 1 contributions</title></circle>
+<circle cx="210.08" cy="265.50" r="2" fill="#fde047"><title>2026-05-04: 1 contributions</title></circle>
+<circle cx="224.59" cy="265.50" r="2" fill="#fde047"><title>2026-05-07: 1 contributions</title></circle>
+<circle cx="234.26" cy="265.50" r="2" fill="#fde047"><title>2026-05-09: 1 contributions</title></circle>
+<circle cx="239.10" cy="265.50" r="2" fill="#fde047"><title>2026-05-10: 1 contributions</title></circle>
+<circle cx="272.95" cy="246.50" r="2" fill="#fde047"><title>2026-05-17: 3 contributions</title></circle>
+<circle cx="287.46" cy="256.00" r="2" fill="#fde047"><title>2026-05-20: 2 contributions</title></circle>
+<circle cx="297.13" cy="256.00" r="2" fill="#fde047"><title>2026-05-22: 2 contributions</title></circle>
+<circle cx="301.97" cy="161.00" r="2" fill="#fde047"><title>2026-05-23: 12 contributions</title></circle>
+<circle cx="306.80" cy="237.00" r="2" fill="#fde047"><title>2026-05-24: 4 contributions</title></circle>
+<circle cx="321.31" cy="227.50" r="2" fill="#fde047"><title>2026-05-27: 5 contributions</title></circle>
+<circle cx="326.15" cy="237.00" r="2" fill="#fde047"><title>2026-05-28: 4 contributions</title></circle>
+<circle cx="330.98" cy="265.50" r="2" fill="#fde047"><title>2026-05-29: 1 contributions</title></circle>
+<circle cx="335.82" cy="265.50" r="2" fill="#fde047"><title>2026-05-30: 1 contributions</title></circle>
+<circle cx="340.66" cy="189.50" r="2" fill="#fde047"><title>2026-05-31: 9 contributions</title></circle>
+<circle cx="345.49" cy="227.50" r="2" fill="#fde047"><title>2026-06-01: 5 contributions</title></circle>
+<circle cx="355.16" cy="265.50" r="2" fill="#fde047"><title>2026-06-03: 1 contributions</title></circle>
+<circle cx="360.00" cy="265.50" r="2" fill="#fde047"><title>2026-06-04: 1 contributions</title></circle>
+<circle cx="369.67" cy="265.50" r="2" fill="#fde047"><title>2026-06-06: 1 contributions</title></circle>
+<circle cx="374.51" cy="113.50" r="2" fill="#fde047"><title>2026-06-07: 17 contributions</title></circle>
+<circle cx="389.02" cy="265.50" r="2" fill="#fde047"><title>2026-06-10: 1 contributions</title></circle>
+<circle cx="393.85" cy="256.00" r="2" fill="#fde047"><title>2026-06-11: 2 contributions</title></circle>
+<circle cx="398.69" cy="265.50" r="2" fill="#fde047"><title>2026-06-12: 1 contributions</title></circle>
+<circle cx="403.52" cy="265.50" r="2" fill="#fde047"><title>2026-06-13: 1 contributions</title></circle>
+<circle cx="408.36" cy="265.50" r="2" fill="#fde047"><title>2026-06-14: 1 contributions</title></circle>
+<circle cx="413.20" cy="265.50" r="2" fill="#fde047"><title>2026-06-15: 1 contributions</title></circle>
+<circle cx="427.70" cy="256.00" r="2" fill="#fde047"><title>2026-06-18: 2 contributions</title></circle>
+<circle cx="437.38" cy="132.50" r="2" fill="#fde047"><title>2026-06-20: 15 contributions</title></circle>
+<circle cx="442.21" cy="246.50" r="2" fill="#fde047"><title>2026-06-21: 3 contributions</title></circle>
+<circle cx="451.89" cy="265.50" r="2" fill="#fde047"><title>2026-06-23: 1 contributions</title></circle>
+<circle cx="466.39" cy="265.50" r="2" fill="#fde047"><title>2026-06-26: 1 contributions</title></circle>
+<circle cx="480.90" cy="256.00" r="2" fill="#fde047"><title>2026-06-29: 2 contributions</title></circle>
+<circle cx="490.57" cy="246.50" r="2" fill="#fde047"><title>2026-07-01: 3 contributions</title></circle>
+<circle cx="505.08" cy="246.50" r="2" fill="#fde047"><title>2026-07-04: 3 contributions</title></circle>
+<circle cx="509.92" cy="132.50" r="2" fill="#fde047"><title>2026-07-05: 15 contributions</title></circle>
+<circle cx="514.75" cy="246.50" r="2" fill="#fde047"><title>2026-07-06: 3 contributions</title></circle>
+<circle cx="519.59" cy="218.00" r="2" fill="#fde047"><title>2026-07-07: 6 contributions</title></circle>
+<circle cx="524.43" cy="246.50" r="2" fill="#fde047"><title>2026-07-08: 3 contributions</title></circle>
+<circle cx="529.26" cy="189.50" r="2" fill="#fde047"><title>2026-07-09: 9 contributions</title></circle>
+<circle cx="553.44" cy="227.50" r="2" fill="#fde047"><title>2026-07-14: 5 contributions</title></circle>
+<circle cx="577.62" cy="246.50" r="2" fill="#fde047"><title>2026-07-19: 3 contributions</title></circle>
+<circle cx="616.31" cy="246.50" r="2" fill="#fde047"><title>2026-07-27: 3 contributions</title></circle>
+<circle cx="621.15" cy="265.50" r="2" fill="#fde047"><title>2026-07-28: 1 contributions</title></circle>
+<circle cx="625.98" cy="256.00" r="2" fill="#fde047"><title>2026-07-29: 2 contributions</title></circle>
+<circle cx="635.66" cy="265.50" r="2" fill="#fde047"><title>2026-07-31: 1 contributions</title></circle>
+<circle cx="645.33" cy="227.50" r="2" fill="#fde047"><title>2026-08-02: 5 contributions</title></circle>
+<circle cx="650.16" cy="265.50" r="2" fill="#fde047"><title>2026-08-03: 1 contributions</title></circle>
+<circle cx="664.67" cy="265.50" r="2" fill="#fde047"><title>2026-08-06: 1 contributions</title></circle>
+<circle cx="669.51" cy="218.00" r="2" fill="#fde047"><title>2026-08-07: 6 contributions</title></circle>
+<circle cx="688.85" cy="265.50" r="2" fill="#fde047"><title>2026-08-11: 1 contributions</title></circle>
+<circle cx="693.69" cy="265.50" r="2" fill="#fde047"><title>2026-08-12: 1 contributions</title></circle>
+<circle cx="698.52" cy="265.50" r="2" fill="#fde047"><title>2026-08-13: 1 contributions</title></circle>
+<circle cx="703.36" cy="265.50" r="2" fill="#fde047"><title>2026-08-14: 1 contributions</title></circle>
+<circle cx="708.20" cy="237.00" r="2" fill="#fde047"><title>2026-08-15: 4 contributions</title></circle>
+<circle cx="713.03" cy="265.50" r="2" fill="#fde047"><title>2026-08-16: 1 contributions</title></circle>
+<circle cx="717.87" cy="265.50" r="2" fill="#fde047"><title>2026-08-17: 1 contributions</title></circle>
+<circle cx="722.70" cy="265.50" r="2" fill="#fde047"><title>2026-08-18: 1 contributions</title></circle>
+<circle cx="727.54" cy="256.00" r="2" fill="#fde047"><title>2026-08-19: 2 contributions</title></circle>
+<circle cx="732.38" cy="256.00" r="2" fill="#fde047"><title>2026-08-20: 2 contributions</title></circle>
+<circle cx="737.21" cy="265.50" r="2" fill="#fde047"><title>2026-08-21: 1 contributions</title></circle>
+<circle cx="742.05" cy="256.00" r="2" fill="#fde047"><title>2026-08-22: 2 contributions</title></circle>
+<circle cx="746.89" cy="256.00" r="2" fill="#fde047"><title>2026-08-23: 2 contributions</title></circle>
+<circle cx="751.72" cy="256.00" r="2" fill="#fde047"><title>2026-08-24: 2 contributions</title></circle>
+<circle cx="756.56" cy="237.00" r="2" fill="#fde047"><title>2026-08-25: 4 contributions</title></circle>
+<circle cx="761.39" cy="227.50" r="2" fill="#fde047"><title>2026-08-26: 5 contributions</title></circle>
+<circle cx="766.23" cy="218.00" r="2" fill="#fde047"><title>2026-08-27: 6 contributions</title></circle>
+<circle cx="771.07" cy="227.50" r="2" fill="#fde047"><title>2026-08-28: 5 contributions</title></circle>
+<circle cx="775.90" cy="237.00" r="2" fill="#fde047"><title>2026-08-29: 4 contributions</title></circle>
+<circle cx="785.57" cy="265.50" r="2" fill="#fde047"><title>2026-08-31: 1 contributions</title></circle>
+<circle cx="790.41" cy="256.00" r="2" fill="#fde047"><title>2026-09-01: 2 contributions</title></circle>
+<circle cx="795.25" cy="265.50" r="2" fill="#fde047"><title>2026-09-02: 1 contributions</title></circle>
+<circle cx="800.08" cy="265.50" r="2" fill="#fde047"><title>2026-09-03: 1 contributions</title></circle>
+<circle cx="804.92" cy="265.50" r="2" fill="#fde047"><title>2026-09-04: 1 contributions</title></circle>
+<circle cx="809.75" cy="265.50" r="2" fill="#fde047"><title>2026-09-05: 1 contributions</title></circle>
+<circle cx="814.59" cy="256.00" r="2" fill="#fde047"><title>2026-09-06: 2 contributions</title></circle>
+<circle cx="819.43" cy="265.50" r="2" fill="#fde047"><title>2026-09-07: 1 contributions</title></circle>
+<circle cx="824.26" cy="265.50" r="2" fill="#fde047"><title>2026-09-08: 1 contributions</title></circle>
+<circle cx="829.10" cy="265.50" r="2" fill="#fde047"><title>2026-09-09: 1 contributions</title></circle>
+<circle cx="833.93" cy="208.50" r="2" fill="#fde047"><title>2026-09-10: 7 contributions</title></circle>
+<circle cx="838.77" cy="265.50" r="2" fill="#fde047"><title>2026-09-11: 1 contributions</title></circle>
+<circle cx="843.61" cy="265.50" r="2" fill="#fde047"><title>2026-09-12: 1 contributions</title></circle>
+<circle cx="848.44" cy="256.00" r="2" fill="#fde047"><title>2026-09-13: 2 contributions</title></circle>
+<circle cx="853.28" cy="265.50" r="2" fill="#fde047"><title>2026-09-14: 1 contributions</title></circle>
+<circle cx="858.11" cy="199.00" r="2" fill="#fde047"><title>2026-09-15: 8 contributions</title></circle>
+<circle cx="862.95" cy="180.00" r="2" fill="#fde047"><title>2026-09-16: 10 contributions</title></circle>
+<circle cx="867.79" cy="265.50" r="2" fill="#fde047"><title>2026-09-17: 1 contributions</title></circle>
+<circle cx="872.62" cy="256.00" r="2" fill="#fde047"><title>2026-09-18: 2 contributions</title></circle>
+<circle cx="877.46" cy="265.50" r="2" fill="#fde047"><title>2026-09-19: 1 contributions</title></circle>
+<circle cx="882.30" cy="265.50" r="2" fill="#fde047"><title>2026-09-20: 1 contributions</title></circle>
+<circle cx="887.13" cy="265.50" r="2" fill="#fde047"><title>2026-09-21: 1 contributions</title></circle>
+<circle cx="891.97" cy="265.50" r="2" fill="#fde047"><title>2026-09-22: 1 contributions</title></circle>
+<circle cx="896.80" cy="142.00" r="2" fill="#fde047"><title>2026-09-23: 14 contributions</title></circle>
+<circle cx="901.64" cy="246.50" r="2" fill="#fde047"><title>2026-09-24: 3 contributions</title></circle>
+<circle cx="906.48" cy="256.00" r="2" fill="#fde047"><title>2026-09-25: 2 contributions</title></circle>
+<circle cx="911.31" cy="227.50" r="2" fill="#fde047"><title>2026-09-26: 5 contributions</title></circle>
+<circle cx="916.15" cy="218.00" r="2" fill="#fde047"><title>2026-09-27: 6 contributions</title></circle>
+<circle cx="920.98" cy="189.50" r="2" fill="#fde047"><title>2026-09-28: 9 contributions</title></circle>
+<circle cx="925.82" cy="265.50" r="2" fill="#fde047"><title>2026-09-29: 1 contributions</title></circle>
+<circle cx="940.33" cy="237.00" r="2" fill="#fde047"><title>2026-10-02: 4 contributions</title></circle>
+<circle cx="950.00" cy="265.50" r="2" fill="#fde047"><title>2026-10-04: 1 contributions</title></circle>
+<text x="65.00" y="300" text-anchor="middle" fill="#a3a3a3" font-size="12">Apr 4</text>
+<text x="195.57" y="300" text-anchor="middle" fill="#a3a3a3" font-size="12">May</text>
+<text x="345.49" y="300" text-anchor="middle" fill="#a3a3a3" font-size="12">Jun</text>
+<text x="490.57" y="300" text-anchor="middle" fill="#a3a3a3" font-size="12">Jul</text>
+<text x="640.49" y="300" text-anchor="middle" fill="#a3a3a3" font-size="12">Aug</text>
+<text x="790.41" y="300" text-anchor="middle" fill="#a3a3a3" font-size="12">Sep</text>
+<text x="935.49" y="300" text-anchor="middle" fill="#a3a3a3" font-size="12">Oct</text>
+<text x="507" y="326" text-anchor="middle" fill="#a3a3a3" font-size="12">Date (UTC)</text>
+<text transform="translate(18 180) rotate(-90)" text-anchor="middle" fill="#a3a3a3" font-size="12">Contributions / day</text>
+</g>
+</svg>
