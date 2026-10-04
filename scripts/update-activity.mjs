@@ -34,7 +34,7 @@ const expected = Math.round((Date.parse(to) - Date.parse(from)) / 86400000) + 1;
 if (days.length !== expected || days.some(day => !Number.isInteger(day.contributionCount) || day.contributionCount < 0)) {
   throw new Error('Incomplete or invalid contribution data; keeping previous graph');
 }
-const left = 65, top = 85, width = 885, height = 190, bottom = top + height;
+const left = 65, top = 45, width = 885, height = 230, bottom = top + height;
 const max = Math.max(4, Math.ceil(Math.max(...days.map(day => day.contributionCount)) / 4) * 4);
 const x = index => left + index * width / (days.length - 1);
 const y = count => bottom - count * height / max;
@@ -60,15 +60,14 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" v
 <desc id="desc">Daily GitHub contributions from ${from} through ${to}. ${total} contributions. Horizontal axis: date. Vertical axis: contributions per day.</desc>
 <rect width="1000" height="340" rx="12" fill="#0d0d0d"/>
 <g font-family="Segoe UI, Arial, sans-serif">
-<text x="30" y="34" fill="#facc15" font-size="20" font-weight="600">Four months of GitHub activity</text>
-<text x="30" y="57" fill="#a3a3a3" font-size="13">${from} — ${to} · ${total} contributions</text>
+<text x="30" y="23" fill="#a3a3a3" font-size="13">${from} — ${to} · ${total} contributions</text>
 ${ticks}
 <polygon points="${left},${bottom} ${points} 950,${bottom}" fill="#facc15" opacity="0.08"/>
 <polyline points="${points}" fill="none" stroke="#facc15" stroke-width="1.8" stroke-linejoin="round"/>
 ${dots}
 ${labels}
 <text x="507" y="326" text-anchor="middle" fill="#a3a3a3" font-size="12">Date (UTC)</text>
-<text transform="translate(18 180) rotate(-90)" text-anchor="middle" fill="#a3a3a3" font-size="12">Contributions / day</text>
+<text transform="translate(18 160) rotate(-90)" text-anchor="middle" fill="#a3a3a3" font-size="12">Contributions / day</text>
 </g>
 </svg>\n`;
 mkdirSync('assets', { recursive: true });
