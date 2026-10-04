@@ -13,13 +13,13 @@
 I build backend systems and AI applications, with a focus on the engineering that happens behind the interface.
 
 <p align="center">
-  <a href="https://www.sekharendudey.com/" title="Portfolio"><img src="./assets/social/portfolio.svg" alt="Portfolio" width="32" /></a>
+  <a href="https://www.sekharendudey.com/" title="Portfolio"><img src="./assets/social/portfolio.svg" alt="Portfolio" width="72" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/sekharendu-dey/" title="LinkedIn"><img src="./assets/social/linkedin.svg" alt="LinkedIn" width="32" /></a>
+  <a href="https://www.linkedin.com/in/sekharendu-dey/" title="LinkedIn"><img src="./assets/social/linkedin.svg" alt="LinkedIn" width="72" /></a>
   &nbsp;
-  <a href="https://x.com/Sekharendu60107" title="X"><img src="./assets/social/x.svg" alt="X" width="32" /></a>
+  <a href="https://x.com/Sekharendu60107" title="X"><img src="./assets/social/x.svg" alt="X" width="72" /></a>
   &nbsp;
-  <a href="mailto:sekharendudey12@gmail.com" title="Email"><img src="./assets/social/email.svg" alt="Email" width="32" /></a>
+  <a href="mailto:sekharendudey12@gmail.com" title="Email"><img src="./assets/social/email.svg" alt="Email" width="72" /></a>
 </p>
 
 ## A few things I’ve built
@@ -47,28 +47,8 @@ It supports four AI SDKs and has **48 automated tests** covering installation, s
 
 ## Tools I reach for
 
-<p>
-  <img src="./assets/tools/javascript.svg" alt="JavaScript" title="JavaScript" width="48" />
-  &nbsp;
-  <img src="./assets/tools/typescript.svg" alt="TypeScript" title="TypeScript" width="48" />
-  &nbsp;
-  <img src="./assets/tools/nodejs.svg" alt="Node.js" title="Node.js" width="48" />
-  &nbsp;
-  <img src="./assets/tools/express.svg" alt="Express" title="Express" width="48" />
-  &nbsp;
-  <img src="./assets/tools/fastify.svg" alt="Fastify" title="Fastify" width="48" />
-  &nbsp;
-  <img src="./assets/tools/react.svg" alt="React" title="React" width="48" />
-  &nbsp;
-  <img src="./assets/tools/rest-api.svg" alt="REST APIs" title="REST APIs" width="48" />
-  &nbsp;
-  <img src="./assets/tools/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="48" />
-  &nbsp;
-  <img src="./assets/tools/git.svg" alt="Git" title="Git" width="48" />
-  &nbsp;
-  <img src="./assets/tools/docker.svg" alt="Docker" title="Docker" width="48" />
-  &nbsp;
-  <img src="./assets/tools/redis.svg" alt="Redis" title="Redis" width="48" />
+<p align="center">
+  <img src="./assets/tools/javascript.svg" alt="JavaScript" title="JavaScript" width="64" /> <img src="./assets/tools/typescript.svg" alt="TypeScript" title="TypeScript" width="64" /> <img src="./assets/tools/python.svg" alt="Python" title="Python" width="64" /> <img src="./assets/tools/nodejs.svg" alt="Node.js" title="Node.js" width="64" /> <img src="./assets/tools/express.svg" alt="Express" title="Express" width="64" /> <img src="./assets/tools/fastify.svg" alt="Fastify" title="Fastify" width="64" /> <img src="./assets/tools/react.svg" alt="React" title="React" width="64" /> <img src="./assets/tools/rest-api.svg" alt="REST APIs" title="REST APIs" width="64" /> <img src="./assets/tools/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="64" /> <img src="./assets/tools/git.svg" alt="Git" title="Git" width="64" /> <img src="./assets/tools/docker.svg" alt="Docker" title="Docker" width="64" /> <img src="./assets/tools/redis.svg" alt="Redis" title="Redis" width="64" />
 </p>
 
 ## Notes from building
