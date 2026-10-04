@@ -12,7 +12,7 @@
 
 I build backend systems and AI applications, with a focus on the engineering that happens behind the interface.
 
-<p>
+<p align="center">
   <a href="https://www.sekharendudey.com/" title="Portfolio"><img src="./assets/social/portfolio.svg" alt="Portfolio" width="32" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sekharendu-dey/" title="LinkedIn"><img src="./assets/social/linkedin.svg" alt="LinkedIn" width="32" /></a>
@@ -30,7 +30,7 @@ A local RAG application for chatting with PDF, Word, and Markdown documents.
 
 I built a 113-question evaluation harness and used it to improve retrieval MRR from **0.912 to 0.952**.
 
-[Source](https://github.com/Sekharendu/LocalCortex) · [Project page](https://sekharendu.github.io/LocalCortex/)
+[Project page](https://sekharendu.github.io/LocalCortex/)
 
 ### [Agnost AI Adapter](https://github.com/Sekharendu/Agnost-AI-Adapter)
 
@@ -38,7 +38,7 @@ An npm package that adds telemetry to AI SDK calls while preserving their existi
 
 It supports four AI SDKs and has **48 automated tests** covering installation, streaming, failures, and Proxy behaviour.
 
-[Source](https://github.com/Sekharendu/Agnost-AI-Adapter) · [npm](https://www.npmjs.com/package/agnost-ai-adapter)
+[npm](https://www.npmjs.com/package/agnost-ai-adapter)
 
 ## What I’m working on
 
@@ -78,7 +78,7 @@ It supports four AI SDKs and has **48 automated tests** covering installation, s
 
 I share engineering notes and project progress on [X](https://x.com/Sekharendu60107) and [dev.to](https://dev.to/sekharendu_dey/).
 
-<details>
+<details open>
 <summary>GitHub activity · last four months</summary>
 
 [![Four months of Sekharendu’s GitHub activity](./assets/github-activity.svg)](https://github.com/Sekharendu?tab=overview)
