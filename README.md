@@ -8,7 +8,7 @@
 </p>
 -->
 
-# Hi, I’m Sekharendu Dey 👋
+# Hi, I’m Sekharendu👋
 
 <!-- <p><img src="./assets/about/about.svg?v=2" alt="~/about $" width="96" height="20" align="absmiddle" /> I'm a software engineer working primarily with TypeScript, Node.js, and React, building backend services, APIs, and web applications.</p>
 
@@ -16,14 +16,11 @@
 
 <p><img src="./assets/about/journey.svg?v=2" alt="~/journey $" width="96" height="20" align="absmiddle" /> I've built and worked on production systems, plus building and maintaining open-source projects has been part of the journey too.</p> -->
 
-<!-- <p align="center"> -->
-  <ul>
-    <li>feat(core): building backends, APIs, and web apps with TypeScript, Node.js, and React</li>
-    <li>feat(ai): working on LLM integrations, context management, tool calling, retries, fallback routing, and evaluation</li>
-    <li>chore(oss): worked on production systems and built and maintained open-source projects along the way</li>
-  </ul>
+&gt; `~/about $` building backends, APIs, and web apps with TypeScript, Node.js, and React
 
-<!-- </p> -->
+&gt; `~/currently $` working on LLM integrations, context management, tool calling, retries, fallback routing, and evaluation
+
+&gt; `~/elsewhere $` worked on production systems and built and maintained open-source projects along the way
 
 <p align="center">
   <a href="https://www.sekharendudey.com/" title="Portfolio"><img src="./assets/social/portfolio.svg" alt="Portfolio" width="60" /></a>
@@ -64,7 +61,9 @@
 
 ## Currently building
 
-- **[StreamMind](https://github.com/Sekharendu/StreamMind)**: AI backend that provides a unified layer for LLMs, streaming, RAG, agents, memory, observability, and multi-provider resilience.
+### [StreamMind](https://github.com/Sekharendu/StreamMind)
+
+AI backend that provides a unified layer for LLMs, streaming, RAG, agents, memory, observability, and multi-provider resilience.
 
 ## Toolbox
 
@@ -74,6 +73,7 @@
 
 ## Writing
 
+- **[What 113 eval questions taught me building a fully local RAG](https://dev.to/sekharendu_dey/what-113-eval-questions-taught-me-building-a-fully-local-rag-1923)**: lessons from testing retrieval, follow-ups, and refusals in LocalCortex.
 - **[Chunking: Getting the First Cut Right](https://www.sekharendudey.com/#blogs)**: choosing a chunking strategy for RAG.
 - **[Measuring Before Painting: Why My Dropdown Needed useLayoutEffect](https://www.sekharendudey.com/#blogs)**: fixing viewport-aware menu positioning in a custom editor.
 
@@ -82,10 +82,6 @@ I share engineering notes and project progress on [X](https://x.com/Sekharendu60
 ## GitHub activity
 
 [![Four months of Sekharendu’s GitHub activity](./assets/github-activity.svg)](https://github.com/Sekharendu?tab=overview)
-
-<p align="center">
-  I’m open to remote backend and AI engineering opportunities.
-</p>
 
 <p align="center">
   <a href="mailto:sekharendudey12@gmail.com">Email me</a>
