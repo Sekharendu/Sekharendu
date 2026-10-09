@@ -10,7 +10,20 @@
 
 # Hi, I’m Sekharendu Dey 👋
 
-I build backend systems and AI applications, focusing on retrieval, streaming, and observability.
+<p>
+  <img src="./assets/about/about.svg" alt="~/about $" width="94" height="22" />
+  I'm a software engineer working primarily with TypeScript, Node.js, and React, building backend services, APIs, and web applications.
+</p>
+
+<p>
+  <img src="./assets/about/focus.svg" alt="~/focus $" width="94" height="22" />
+  More recently, I've been putting a lot of my time into LLM integrations, from context management and tool calling to retries, fallback routing, and evaluation.
+</p>
+
+<p>
+  <img src="./assets/about/journey.svg" alt="~/journey $" width="114" height="22" />
+  I've built and worked on production systems, plus building and maintaining open-source projects has been part of the journey too.
+</p>
 
 <p align="center">
   <a href="https://www.sekharendudey.com/" title="Portfolio"><img src="./assets/social/portfolio.svg" alt="Portfolio" width="60" /></a>
