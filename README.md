@@ -37,17 +37,26 @@
 
 ## Selected work
 
-- **[LocalCortex](https://github.com/Sekharendu/LocalCortex)** — a local RAG application for chatting with PDF, Word, and Markdown documents.
-  - Improved retrieval MRR from **0.912 to 0.952** using a 113-question evaluation harness.
-  - [Project page →](https://sekharendu.github.io/LocalCortex/)
-
-- **[Agnost AI Adapter](https://github.com/Sekharendu/Agnost-AI-Adapter)** — an npm package that adds telemetry to AI SDK calls while preserving their existing interfaces.
-  - Includes **48 automated tests** covering installation, streaming, failures, and Proxy behaviour.
-  - [View on npm →](https://www.npmjs.com/package/agnost-ai-adapter)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Sekharendu/LocalCortex">LocalCortex</a></h3>
+      <p>A local RAG application for chatting with PDF, Word, and Markdown documents.</p>
+      <p>Improved retrieval MRR from <strong>0.912 to 0.952</strong> using a 113-question evaluation harness.</p>
+      <p><a href="https://sekharendu.github.io/LocalCortex/">Project page →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Sekharendu/Agnost-AI-Adapter">Agnost AI Adapter</a></h3>
+      <p>An npm package that adds telemetry to AI SDK calls while preserving their existing interfaces.</p>
+      <p>Includes <strong>48 automated tests</strong> covering installation, streaming, failures, and Proxy behaviour.</p>
+      <p><a href="https://www.npmjs.com/package/agnost-ai-adapter">View on npm →</a></p>
+    </td>
+  </tr>
+</table>
 
 ## Currently building
 
-- **[StreamMind](https://github.com/Sekharendu/StreamMind)** — a backend bringing together streaming, retrieval, conversation history, observability, and multi-provider LLM fallback.
+- **[StreamMind](https://github.com/Sekharendu/StreamMind)**: a backend bringing together streaming, retrieval, conversation history, observability, and multi-provider LLM fallback.
 
 ## Toolbox
 
@@ -57,8 +66,8 @@
 
 ## Writing
 
-- **[Chunking: Getting the First Cut Right](https://www.sekharendudey.com/#blogs)** — choosing a chunking strategy for RAG.
-- **[Measuring Before Painting: Why My Dropdown Needed useLayoutEffect](https://www.sekharendudey.com/#blogs)** — fixing viewport-aware menu positioning in a custom editor.
+- **[Chunking: Getting the First Cut Right](https://www.sekharendudey.com/#blogs)**: choosing a chunking strategy for RAG.
+- **[Measuring Before Painting: Why My Dropdown Needed useLayoutEffect](https://www.sekharendudey.com/#blogs)**: fixing viewport-aware menu positioning in a custom editor.
 
 I share engineering notes and project progress on [X](https://x.com/Sekharendu60107) and [dev.to](https://dev.to/sekharendu_dey/).
 
