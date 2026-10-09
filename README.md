@@ -10,20 +10,20 @@
 
 # Hi, I’m Sekharendu Dey 👋
 
-<p>
-  <img src="./assets/about/about.svg" alt="~/about $" width="94" height="22" /><br>
-  I'm a software engineer working primarily with TypeScript, Node.js, and React, building backend services, APIs, and web applications.
-</p>
-
-<p>
-  <img src="./assets/about/focus.svg" alt="~/focus $" width="94" height="22" /><br>
-  More recently, I've been putting a lot of my time into LLM integrations, from context management and tool calling to retries, fallback routing, and evaluation.
-</p>
-
-<p>
-  <img src="./assets/about/journey.svg" alt="~/journey $" width="114" height="22" /><br>
-  I've built and worked on production systems, plus building and maintaining open-source projects has been part of the journey too.
-</p>
+<table>
+  <tr>
+    <td width="130" valign="top"><img src="./assets/about/about.svg" alt="~/about $" width="94" height="22" /></td>
+    <td valign="top">I'm a software engineer working primarily with TypeScript, Node.js, and React, building backend services, APIs, and web applications.</td>
+  </tr>
+  <tr>
+    <td width="130" valign="top"><img src="./assets/about/focus.svg" alt="~/focus $" width="94" height="22" /></td>
+    <td valign="top">More recently, I've been putting a lot of my time into LLM integrations, from context management and tool calling to retries, fallback routing, and evaluation.</td>
+  </tr>
+  <tr>
+    <td width="130" valign="top"><img src="./assets/about/journey.svg" alt="~/journey $" width="114" height="22" /></td>
+    <td valign="top">I've built and worked on production systems, plus building and maintaining open-source projects has been part of the journey too.</td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://www.sekharendudey.com/" title="Portfolio"><img src="./assets/social/portfolio.svg" alt="Portfolio" width="60" /></a>
