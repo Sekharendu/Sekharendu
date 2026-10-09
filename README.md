@@ -10,11 +10,11 @@
 
 # Hi, I’m Sekharendu Dey 👋
 
-<p><img src="./assets/about/about.svg" alt="~/about $" width="80" height="20" align="absmiddle" /> I'm a software engineer working primarily with TypeScript, Node.js, and React, building backend services, APIs, and web applications.</p>
+<p><img src="./assets/about/about.svg" alt="~/about $" width="114" height="20" align="absmiddle" /> I'm a software engineer working primarily with TypeScript, Node.js, and React, building backend services, APIs, and web applications.</p>
 
-<p><img src="./assets/about/focus.svg" alt="~/focus $" width="80" height="20" align="absmiddle" /> More recently, I've been putting a lot of my time into LLM integrations, from context management and tool calling to retries, fallback routing, and evaluation.</p>
+<p><img src="./assets/about/focus.svg" alt="~/focus $" width="114" height="20" align="absmiddle" /> More recently, I've been putting a lot of my time into LLM integrations, from context management and tool calling to retries, fallback routing, and evaluation.</p>
 
-<p><img src="./assets/about/journey.svg" alt="~/journey $" width="97" height="20" align="absmiddle" /> I've built and worked on production systems, plus building and maintaining open-source projects has been part of the journey too.</p>
+<p><img src="./assets/about/journey.svg" alt="~/journey $" width="114" height="20" align="absmiddle" /> I've built and worked on production systems, plus building and maintaining open-source projects has been part of the journey too.</p>
 
 <p align="center">
   <a href="https://www.sekharendudey.com/" title="Portfolio"><img src="./assets/social/portfolio.svg" alt="Portfolio" width="60" /></a>
