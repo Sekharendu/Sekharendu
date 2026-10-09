@@ -16,11 +16,17 @@
 
 <p><img src="./assets/about/journey.svg?v=2" alt="~/journey $" width="96" height="20" align="absmiddle" /> I've built and worked on production systems, plus building and maintaining open-source projects has been part of the journey too.</p> -->
 
-&gt; `~/about $` building backends, APIs, and web apps with TypeScript, Node.js, and React
+<!--&gt; `~/about $` building backends, APIs, and web apps with TypeScript, Node.js, and React
 
 &gt; `~/currently $` working on LLM integrations, context management, tool calling, retries, fallback routing, and evaluation
 
-&gt; `~/elsewhere $` worked on production systems and built and maintained open-source projects along the way
+&gt; `~/elsewhere $` worked on production systems and built and maintained open-source projects along the way -->
+
+<p>
+&gt; <code>~/about $</code> building backends, APIs, and web apps with TypeScript, Node.js, and React<br>
+&gt; <code>~/currently $</code> working on LLM integrations, context management, tool calling, retries, fallback routing, and evaluation<br>
+&gt; <code>~/elsewhere $</code> worked on production systems and built and maintained open-source projects along the way
+</p>
 
 <p align="center">
   <a href="https://www.sekharendudey.com/" title="Portfolio"><img src="./assets/social/portfolio.svg" alt="Portfolio" width="60" /></a>
