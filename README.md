@@ -16,9 +16,14 @@
 
 <p><img src="./assets/about/journey.svg?v=2" alt="~/journey $" width="96" height="20" align="absmiddle" /> I've built and worked on production systems, plus building and maintaining open-source projects has been part of the journey too.</p> -->
 
-<p align="center">
-I'm a software engineer working mainly with TypeScript, Node.js, and React, building backend services, APIs, and web applications. Recently, I've been putting a lot of my time into LLM integrations, from context management and tool calling to retries, fallback routing, and evaluation. Also built and worked on production systems, plus building and maintaining open-source projects has been part of the journey too.
-</p>
+<!-- <p align="center"> -->
+  <ul align="center">
+    <li>feat(core): building backends, APIs, and web apps with TypeScript, Node.js, and React</li>
+    <li>feat(ai): working on LLM integrations, context management, tool calling, retries, fallback routing, and evaluation</li>
+    <li>chore(oss): worked on production systems and built and maintained open-source projects along the way</li>
+  </ul>
+
+<!-- </p> -->
 
 <p align="center">
   <a href="https://www.sekharendudey.com/" title="Portfolio"><img src="./assets/social/portfolio.svg" alt="Portfolio" width="60" /></a>
