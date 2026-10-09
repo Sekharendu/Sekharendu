@@ -17,7 +17,7 @@
 <p><img src="./assets/about/journey.svg?v=2" alt="~/journey $" width="96" height="20" align="absmiddle" /> I've built and worked on production systems, plus building and maintaining open-source projects has been part of the journey too.</p> -->
 
 <!-- <p align="center"> -->
-  <ul align="center">
+  <ul>
     <li>feat(core): building backends, APIs, and web apps with TypeScript, Node.js, and React</li>
     <li>feat(ai): working on LLM integrations, context management, tool calling, retries, fallback routing, and evaluation</li>
     <li>chore(oss): worked on production systems and built and maintained open-source projects along the way</li>
