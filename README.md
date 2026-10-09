@@ -64,7 +64,7 @@
 
 ## Currently building
 
-- **[StreamMind](https://github.com/Sekharendu/StreamMind)**: a backend bringing together streaming, retrieval, conversation history, observability, and multi-provider LLM fallback.
+- **[StreamMind](https://github.com/Sekharendu/StreamMind)**: AI backend that provides a unified layer for LLMs, streaming, RAG, agents, memory, observability, and multi-provider resilience.
 
 ## Toolbox
 
