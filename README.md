@@ -41,14 +41,22 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Sekharendu/LocalCortex">LocalCortex</a></h3>
-      <p>A local RAG application for chatting with PDF, Word, and Markdown documents.</p>
-      <p>Improved retrieval MRR from <strong>0.912 to 0.952</strong> using a 113-question evaluation harness.</p>
+      <ul>
+        <li>A RAG app that runs locally on the machine without any API callout or GPU in the loop.</li>
+        <li>Finds relevant passages and answers with sources and conversation memory.</li>
+        <li>Made retrieval, follow-ups, and refusals more reliable through repeated testing and improvements.</li>
+        <li>Tested it hard: <strong>105/113 retrieval hits</strong> and <strong>61/62 correct answers</strong>.</li>
+      </ul>
       <p><a href="https://sekharendu.github.io/LocalCortex/">Project page →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Sekharendu/Agnost-AI-Adapter">Agnost AI Adapter</a></h3>
-      <p>An npm package that adds telemetry to AI SDK calls while preserving their existing interfaces.</p>
-      <p>Includes <strong>48 automated tests</strong> covering installation, streaming, failures, and Proxy behaviour.</p>
+      <ul>
+        <li>An observability adapter wrapping <strong>4 AI SDKs</strong>.</li>
+        <li>Wraps existing SDK calls, captures what happened, and sends telemetry to Agnost in the background.</li>
+        <li>Used drop-in wrappers and JavaScript Proxies.</li>
+        <li>Ran <strong>48 automated tests</strong>, covering <strong>29 unit</strong> and <strong>19 end-to-end</strong> scenarios.</li>
+      </ul>
       <p><a href="https://www.npmjs.com/package/agnost-ai-adapter">View on npm →</a></p>
     </td>
   </tr>
